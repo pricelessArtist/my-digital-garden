@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home-place/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-11-05T20:47:21.021-05:00","updated":"2026-11-06T05:34:30.591-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/home-place/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-11-05T20:47:21.021-05:00","updated":"2026-11-06T05:40:41.711-05:00","dg-note-properties":{}}
 ---
 
 This is the home place for my notes, links, separated by headers. The digital garden will be a place for mini essays, learning notes and etc. 
@@ -19,5 +19,4 @@ Any book that is finished could eventually be reread and possible turned into an
 # Future Mini Essay Ideas
 - What are Sets?
 
-![[Test.canvas\|Test.canvas]]
-
+[[Excalidraw/Drawing 2026-11-06 05.39.41.excalidraw\|Drawing 2026-11-06 05.39.41.excalidraw]]
