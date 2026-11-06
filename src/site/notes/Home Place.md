@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-place/","tags":["gardenEntry"],"created":"2026-11-05T20:47:21.021-05:00","updated":"2026-11-05T23:19:17.467-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-place/","tags":["gardenEntry"],"created":"2026-11-05T20:47:21.021-05:00","updated":"2026-11-06T04:44:37.030-05:00","dg-note-properties":{}}
 ---
 
 This is the home place for my notes, links, separated by headers. The digital garden will be a place for mini essays, learning notes and etc. 
@@ -16,4 +16,8 @@ Any book that is finished could eventually be reread and possible turned into an
 # Books finished (2026)
 - [[2 - Source Material/Books/The epic of Gilgamesh\|The epic of Gilgamesh]] by N.K Sandars
 
+# Future Mini Essay Ideas
+- What are Sets?
+
+[[Testing.canvas\|Testing.canvas]]
 
