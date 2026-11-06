@@ -19,5 +19,5 @@ Any book that is finished could eventually be reread and possible turned into an
 # Future Mini Essay Ideas
 - What are Sets?
 
-![[2 - Source Material/Test.canvas\|Test.canvas]]
+![[Test.canvas\|Test.canvas]]
 
